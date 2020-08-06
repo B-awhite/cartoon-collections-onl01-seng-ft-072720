@@ -17,3 +17,4 @@ def find_the_cheese(cheddar_cheese)
      cheese_types.find{|i| i = "cheddar"}
    cheese_types.include?
 end
+
